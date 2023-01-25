@@ -1,0 +1,133 @@
+{
+  "main": {
+    "name": "Evans Mutuku",
+    "occupation": "Web dev, instructor & mentor ",
+    "description": "I eat, sleep and breathe React",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Evans! You might also know me as Javascript Developer. I've been programming for over 2 years now as a Full Stack developer. I've worked both with startups and individuals to help build & scale their businesses. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers.Hence mentoring and teaching how to code. ",
+    "contactmessage": "Get in touch with me and grow your skills and business!",
+    "email": "evansnyamai98@gmail.com",
+    "phone": "+254  -791486125 , +254 -752028112", 
+    "address": {
+      "street": "Kenya",
+      "city": "Nairobi Kenya"
+    },
+
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/evan.mutuku",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/evans-mutuku-5407391b9",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Evans-mutuku/",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "St Paul's University - Kenya",
+        "degree": "Diploma, Computer Science",
+        "description": "Am a proclaimed self-taught fullstack Javascript developer with knowledge in Javascript, ReactJs, NodeJs"
+      }
+    ],
+    "work": [
+      {
+        "company": "Freelancing",
+        "title": "Creating websites and teaching code",
+        "years": "Feb 2018 - Present",
+        "description": "Cloning all the apps possible. Cloning Amazon.com, G-Mail.com, LinkedIn, Twitter, Snapchat and many more... On the way to clone the world! Building websites for businesess, start-ups and teaching code."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "99%"
+      },
+      {
+        "name": "Javascript",
+        "level": "85%"
+      },
+      {
+        "name": "Html & css",
+        "level": "99%"
+      },
+      {
+        "name": "Node.js",
+        "level": "72%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "LinkedIn app (React JS)",
+        "category": "",
+        "image": "linked-in.jpg",
+        "url": "https://linked-in-1dd3f.web.app/"
+      },
+      {
+        "title": "Snapchat clone (React JS)",
+        "category": "",
+        "image": "snapchat.jpg",
+        "url": "https://snap-chat-23073.web.app"
+      },
+      {
+        "title": "Portfolio-app (React JS)",
+        "category": "",
+        "image": "portfolio.jpg",
+        "url": "https://my-portfolio-aa724.web.app"
+      },
+      {
+        "title": "Evansify Tech Solutions (React JS)",
+        "category": "",
+        "image": "evansify.jpg",
+        "url": "https://evansify.com"
+      },
+      {
+        "title": "Blu-Ray Travel Agency (React JS)",
+        "category": "",
+        "image": "blu-ray.jpg",
+        "url": "https://blu-ray-travel-agency.com/"
+      },
+      {
+        "title": "Muthetheni AIC (React JS)",
+        "category": "",
+        "image": "muthetheni.jpg",
+        "url": "https://muthetheni-aic.web.app/"
+      },
+      {
+        "title": "Breaking Bad (React JS)",
+        "category": "",
+        "image": "breaking-bad.jpg",
+        "url": "https://github.com/Evans-mutuku/Breaking-bad-show.git"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Evans is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to me... I would definitely recommend",
+        "user": "Douglas "
+      },
+      {
+        "text": "Learning with Evans has been AWESOME, he makes learning Javascript so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Emma"
+      }
+    ]
+  }
+}
+
