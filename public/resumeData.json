@@ -74,18 +74,6 @@
   "portfolio": {
     "projects": [
       {
-        "title": "LinkedIn app (React JS)",
-        "category": "",
-        "image": "linked-in.jpg",
-        "url": "https://linked-in-1dd3f.web.app/"
-      },
-      {
-        "title": "Snapchat clone (React JS)",
-        "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://snap-chat-23073.web.app"
-      },
-      {
         "title": "Portfolio-app (React JS)",
         "category": "",
         "image": "portfolio.jpg",
@@ -98,10 +86,10 @@
         "url": "https://evansify.com"
       },
       {
-        "title": "Blu-Ray Travel Agency (React JS)",
+        "title": "Melbite Blogging platform (React JS)",
         "category": "",
-        "image": "blu-ray.jpg",
-        "url": "https://blu-ray-travel-agency.com/"
+        // "image": "blu-ray.jpg",
+        "url": "https://melbite.com/"
       },
       {
         "title": "Muthetheni AIC (React JS)",
@@ -125,7 +113,7 @@
       },
       {
         "text": "Learning with Evans has been AWESOME, he makes learning Javascript so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Emma"
+        "user": "Emmaculate"
       }
     ]
   }
